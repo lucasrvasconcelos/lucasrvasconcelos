@@ -1,3 +1,4 @@
+## Hey folks! 👋
 
 <p> 🚀 Me chamo Lucas e estou aqui para compartilhar ideias, aprender e explorar novos horizontes. Sejam bem-vindos! 🌟</p>
 <p> ✔ Que tal começarmos esta jornada juntos? </p>
