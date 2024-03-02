@@ -1,4 +1,4 @@
-# Olá pessoal! Eu sou Lucas!
+# Olá pessoal! Meu nome é Lucas!
 
 <p> ✔ Que tal começarmos esta jornada juntos? </p>
 <p> 🚀 Estou aqui para compartilhar ideias, aprender e explorar novos horizontes. Sejam bem-vindos! 🌟</p>
