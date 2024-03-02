@@ -1,4 +1,4 @@
-## Hey folks! 👋
+## Hello! 👋
 
 <p> 🚀 Me chamo Lucas e estou aqui para compartilhar ideias, aprender e explorar novos horizontes. Sejam bem-vindos! 🌟</p>
 <p> ✔ Que tal começarmos esta jornada juntos? </p>
@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasrvasconcelos&color=blue&style=for-the-badge" alt="Profile views" /> </p>
 
-## Technologias
+## Tecnologias
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
