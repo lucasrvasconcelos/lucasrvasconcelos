@@ -1,7 +1,6 @@
-# Olá pessoal! Meu nome é Lucas!
 
+<p> 🚀 Me chamo Lucas e estou aqui para compartilhar ideias, aprender e explorar novos horizontes. Sejam bem-vindos! 🌟</p>
 <p> ✔ Que tal começarmos esta jornada juntos? </p>
-<p> 🚀 Estou aqui para compartilhar ideias, aprender e explorar novos horizontes. Sejam bem-vindos! 🌟</p>
 
 - 💻 Web Developer Front-End
 - 🚀 More at [lucasrvasconcelos](https://lucasrvasconcelos.github.io/Portfolio-2.0/)
